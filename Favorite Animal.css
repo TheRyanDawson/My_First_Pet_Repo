@@ -1,0 +1,35 @@
+.inline-block{
+    display: inline-block;
+    background-color: white;
+    padding: 20px;
+    width: 150px;
+    text-align: center;
+  }
+  .header{
+    Background-color: grey;
+    padding: 5px;
+  }
+  .left{
+    float: left;
+    width: 30%;
+    Background-color: #333333;
+    height: 500px;
+  }
+  .right{
+    float: left;
+    width: 70%;
+    Background-color: #cccccc;
+    height: 500px;
+  }
+  .container1{
+    text-align: Center;
+    padding: 15px;
+  }
+  .container2{
+    background-color: #999999;
+    padding: 15px;
+  }
+  .Image1{
+    height: 250px;
+    background-color: red;
+  }
